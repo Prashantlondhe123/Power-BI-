@@ -2,4 +2,15 @@
   Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights
 
 > Power query+ Power pivot + Power view + Power Bi service 
-#
+
+#Power Query:
+   Power Query is the data connectivity and data preparation technology that enables end users to seamlessly import and reshape data from within a wide range of Microsoft products, including Excel, Power BI, Analysis Services, Dataverse, and more
+
+#Power Pivot:
+   Power Pivot is great for modeling the data you've imported. Use both to shape your data in Excel so you can explore and visualize it in PivotTables, PivotCharts, and Power Bi.
+
+#Power Views:
+   Power View is a data visualization technology that lets you create interactive charts, graphs, maps, and other visuals that bring your data to life. Power View is available in Excel, in SharePoint, SQL Server, and Power BI
+
+#Power Bi service:
+   Power BI service is a cloud-based business analytics and data visualization service that enables anyone to visualize and analyze data with greater speed,
