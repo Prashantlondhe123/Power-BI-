@@ -14,3 +14,6 @@
 
 #Power Bi service:
    Power BI service is a cloud-based business analytics and data visualization service that enables anyone to visualize and analyze data with greater speed,
+
+#stacked column chart:
+  A Power BI Stacked Column chart based on column bars, which comprise one or multiple legends. In a Stacked Column chart, data series are stacked one on top of the other in vertical columns. Stacked column charts show changes over time and also it is easy to compare total column length
